@@ -19,6 +19,7 @@ from pathlib import Path
 
 # ── CONFIG ──────────────────────────────────────────────
 TOKEN = os.getenv("DISCORD_TOKEN")
+print("TOKEN gəldi:", TOKEN)
 DATA_FILE = "data.json"
 
 # Kanal adları (server-inizdəkilərlə uyğunlaşdırın)
