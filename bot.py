@@ -18,7 +18,7 @@ from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 # ── CONFIG ──────────────────────────────────────────────
-TOKEN = os.getenv("DISCORD_TOKEN", "")
+TOKEN = os.getenv("DISCORD_TOKEN")
 DATA_FILE = "data.json"
 
 # Kanal adları (server-inizdəkilərlə uyğunlaşdırın)
