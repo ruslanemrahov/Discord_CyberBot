@@ -1,0 +1,19 @@
+{
+  "users": {
+    "727219456669122641": {
+      "name": "",
+      "streak": 0,
+      "longest_streak": 0,
+      "last_checkin": null,
+      "total_hours": 0,
+      "machines": 0,
+      "phase": 1,
+      "week": 1,
+      "xp": 0,
+      "badges": [],
+      "notes_count": 0
+    }
+  },
+  "challenges": [],
+  "quiz_scores": {}
+}
